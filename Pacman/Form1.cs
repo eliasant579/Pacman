@@ -28,7 +28,6 @@ namespace Pacman
             int x = 2;
             int y = 45;
 
-            Redraw();
 
             while (x != 202)
             {
